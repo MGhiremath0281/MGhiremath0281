@@ -1,5 +1,5 @@
 # Muktananda Hiremath
-**Backend Architecture | AI & Machine Learning Integration **
+**Backend Architecture | AI & Machine Learning Integration**
 
 I specialize in engineering robust backend ecosystems using **Java and Spring Boot**, with a core focus on serving and orchestrating **Machine Learning models**. My expertise lies in creating the bridge between high-performance enterprise logic and intelligent AI-driven insights.
 
