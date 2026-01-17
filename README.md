@@ -34,28 +34,26 @@ I architect and engineer **production-grade backend systems** that seamlessly in
 
 <div align="center">
 
-### Backend Engineering & Architecture
+### Backend Development & Basics
 
 </div>
 
 <div align="left">
 
-**Frameworks & Languages**
-- Java (Spring Boot, Spring Cloud, Spring Security)
-- Microservices Architecture & Design Patterns
-- RESTful & GraphQL API Development
-- OAuth2, JWT Authentication & Authorization
+**Programming & Frameworks**
+- Java basics and Spring Boot (simple web applications)
+- Understanding APIs (REST basics)
+- Simple authentication (username/password concepts)
 
-**Data & Persistence**
-- PostgreSQL
-- JPA/Hibernate (ORM Strategies)
-- Database Design & Normalization
+**Databases**
+- PostgreSQL fundamentals
+- Basic database design (tables, relationships)
+- Using JPA/Hibernate for simple data storage
 
-**DevOps & Infrastructure**
-- Docker & Kubernetes (Container Orchestration)
-- CI/CD Pipelines (Jenkins, GitLab CI)
-- Nginx, Apache (Reverse Proxy & Load Balancing)
-- Linux System Administration
+**DevOps & Tools**
+- Introduction to Docker (containers)
+- Basic Git and version control
+- Running applications on Linux (basic commands)
 
 </div>
 
@@ -64,28 +62,25 @@ I architect and engineer **production-grade backend systems** that seamlessly in
 
 <div align="center">
 
-### AI/ML Integration & Data Science
+### AI/ML & Data Fundamentals
 
 </div>
 
 <div align="left">
 
-**Model Deployment & Serving**
-- Spring AI (LLM Integration Framework)
-- FastAPI, Flask (Python Model Serving)
-- TensorFlow Serving, TorchServe
-- Model Versioning & A/B Testing
+**Model Deployment**
+- Running simple Python models (Flask or FastAPI)
+- Understanding model inputs and outputs
 
-**Machine Learning Frameworks**
-- PyTorch, TensorFlow (Deep Learning)
-- scikit-learn (Classical ML Algorithms)
-- LangChain (LLM Orchestration)
-- Hugging Face Transformers
+**Machine Learning Basics**
+- Introduction to Python ML libraries (scikit-learn)
+- Simple regression, classification, and data exploration
+- Using pre-trained models (Hugging Face Transformers) for experiments
 
-**Data Engineering**
-- Vector Databases (Pinecone, ChromaDB, pgvector)
-- ETL Pipelines & Data Processing
-- Feature Engineering & Model Monitoring
+**Data Handling**
+- Reading and processing data (CSV, Excel)
+- Basic data cleaning and simple feature preparation
+- Storing data in simple databases
 
 </div>
 
@@ -95,8 +90,6 @@ I architect and engineer **production-grade backend systems** that seamlessly in
 
 </div>
 
----
-
 ## Technology Stack
 
 <div align="center">
@@ -104,7 +97,7 @@ I architect and engineer **production-grade backend systems** that seamlessly in
 ### Backend Development & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,docker,kubernetes,maven&perline=8&theme=light" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,kubernetes,maven&perline=8&theme=light" alt="Backend Stack" />
 </p>
 
 ### Artificial Intelligence & Machine Learning
@@ -127,10 +120,7 @@ I architect and engineer **production-grade backend systems** that seamlessly in
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MGhiremath0281&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Achievements" />
-
 <br/><br/>
-
 <table>
 <tr>
 <td width="50%">
@@ -147,14 +137,6 @@ I architect and engineer **production-grade backend systems** that seamlessly in
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MGhiremath0281&layout=compact&theme=algolia&hide_border=true&langs_count=10&hide=html,css,javascript&custom_title=Language+Distribution" alt="Language Distribution" width="50%" />
 
 <br/><br/>
-
-
-### Contribution Activity
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=MGhiremath0281&theme=github-compact&hide_border=false&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9&area=true&custom_title=Annual%20Contribution%20Graph)
-
-</div>
-
 ---
 
 ## Architecture Approach
@@ -175,7 +157,6 @@ public class IntelligentBackendArchitecture {
      * AI/ML INTEGRATION LAYER
      * - LLM Orchestration (Spring AI, LangChain)
      * - Model Serving Endpoints (FastAPI, TorchServe)
-     * - Vector Search (pgvector, Pinecone)
      * - Real-time Inference Pipelines
      */
     
@@ -183,7 +164,6 @@ public class IntelligentBackendArchitecture {
      * DATA ARCHITECTURE
      * - Primary Store: PostgreSQL (JSONB, Full-Text Search)
      * - Caching Layer: Redis (Session, Query Cache)
-     * - Event Streaming: Apache Kafka
      * - Vector Storage: Specialized Vector DBs
      */
     
@@ -191,16 +171,12 @@ public class IntelligentBackendArchitecture {
      * SECURITY & OBSERVABILITY
      * - Authentication: JWT + OAuth2
      * - Authorization: RBAC with Spring Security
-     * - Monitoring: Prometheus + Grafana
      * - Logging: ELK Stack
      */
 }
 ```
 
 </div>
-
-
-
 ---
 
 ## Professional Network
