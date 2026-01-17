@@ -137,6 +137,7 @@ I architect and engineer **production-grade backend systems** that seamlessly in
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MGhiremath0281&layout=compact&theme=algolia&hide_border=true&langs_count=10&hide=html,css,javascript&custom_title=Language+Distribution" alt="Language Distribution" width="50%" />
 
 <br/><br/>
+
 ---
 
 ## Architecture Approach
@@ -177,6 +178,7 @@ public class IntelligentBackendArchitecture {
 ```
 
 </div>
+
 ---
 
 ## Professional Network
