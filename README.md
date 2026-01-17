@@ -1,25 +1,83 @@
-#  About Me:
-I’m a backend-driven developer focused mainly on Java and Spring Boot, working on API development, database design, security, and deployment. I also have a background in Machine Learning, actively improve my problem-solving skills, and contribute to open-source to stay connected with the developer community.
+# Muktananda Hiremath
+**Backend Architecture | AI & Machine Learning Integration Specialist**
 
+I specialize in engineering robust backend ecosystems using **Java and Spring Boot**, with a core focus on serving and orchestrating **Machine Learning models**. My expertise lies in creating the bridge between high-performance enterprise logic and intelligent AI-driven insights.
 
-##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muktanandgh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muktananda-hiremath) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hmuktananadg@gmail.com) 
+---
 
-#  Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-#  GitHub Stats:
+### Specializations
+* **Backend Engineering:** Microservices, Spring Security, Data Persistence (JPA/Hibernate).
+* **AI Integration:** LLM Orchestration, Spring AI, Model Inference via FastAPI/Flask.
+* **Data Strategy:** Scalable PostgreSQL design, Vector Search, and Data Pipelines.
+* **Engineering Excellence:** Containerized Deployment (Docker) and RESTful API Design.
+
+---
+
+### Technical Ecosystem
+
+#### Backend Architecture & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,maven,hibernate" />
+</p>
+
+#### Artificial Intelligence & Model Serving
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,tensorflow,anaconda" />
+</p>
+
+#### Development & Collaboration Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea" />
+</p>
+
+---
+
+### Development Metrics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MGhiremath0281&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MGhiremath0281&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="350" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+</div>
+
+---
+
+### GitHub Overview
 ![](https://github-readme-stats.vercel.app/api?username=MGhiremath0281&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MGhiremath0281&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MGhiremath0281&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MGhiremath0281&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
+### Professional Network
 
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MGhiremath0281&limit=5&theme=default&combine_all_yearly_contributions=true)
+<p align="left">
+  <a href="https://linkedin.com/in/muktananda-hiremath">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:hmuktananadg@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/muktanandgh">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MGhiremath0281">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MGhiremath0281&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer Quote" />
+  <br/>
+</div>
