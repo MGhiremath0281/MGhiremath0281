@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Building+Intelligent+Backend+Systems;Orchestrating+ML+Models+at+Scale;Spring+Boot+%7C+Python+%7C+Cloud+Native;Enterprise+Architecture+%2B+AI+Integration" alt="Typing SVG" />
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:58a6ff,100:79c0ff&height=120&width=1500&section=header)
-
 </div>
 
 ---
@@ -204,8 +202,6 @@ public class IntelligentBackendArchitecture {
 </p>
 
 <br/>
-
-![](https://komarev.com/ghpvc/?username=MGhiremath0281&label=Profile+Views&color=58a6ff&style=for-the-badge)
 
 </div>
 
