@@ -205,15 +205,8 @@ public class IntelligentBackendArchitecture {
 
 </div>
 
----
-
 <div align="center">
 
-### Technical Philosophy
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br/>
 
 **"Architecting intelligent, resilient systems that transform data into strategic advantage"**
 
