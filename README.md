@@ -92,7 +92,7 @@ I architect and engineer **production-grade backend systems** that seamlessly in
 
 <div align="center">
 
-### Backend Development & Infrastructure
+### Backend Development & Infrastructuree
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,kubernetes,maven&perline=8&theme=light" alt="Backend Stack" />
