@@ -22,7 +22,7 @@ I architect and engineer **production-grade backend systems** that seamlessly in
 
 ---
 
-## Technical Expertise
+## Technical Expertise.
 
 <div align="center">
 
