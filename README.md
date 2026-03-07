@@ -138,47 +138,6 @@ I architect and engineer **production-grade backend systems** that seamlessly in
 
 ---
 
-## Architecture Approach
-
-<div align="left">
-
-```java
-/**
- * Enterprise-Grade Backend Architecture
- * Integrating AI/ML capabilities with robust microservices design
- */
-
-@SpringBootApplication
-@EnableDiscoveryClient
-public class IntelligentBackendArchitecture {
-    
-    /**
-     * AI/ML INTEGRATION LAYER
-     * - LLM Orchestration (Spring AI, LangChain)
-     * - Model Serving Endpoints (FastAPI, TorchServe)
-     * - Real-time Inference Pipelines
-     */
-    
-    /**
-     * DATA ARCHITECTURE
-     * - Primary Store: PostgreSQL (JSONB, Full-Text Search)
-     * - Caching Layer: Redis (Session, Query Cache)
-     * - Vector Storage: Specialized Vector DBs
-     */
-    
-    /**
-     * SECURITY & OBSERVABILITY
-     * - Authentication: JWT + OAuth2
-     * - Authorization: RBAC with Spring Security
-     * - Logging: ELK Stack
-     */
-}
-```
-
-</div>
-
----
-
 ## Professional Network
 
 <div align="center">
