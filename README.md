@@ -21,73 +21,6 @@ I architect and engineer **production-grade backend systems** that seamlessly in
 </div>
 
 ---
-
-## Technical Expertise.
-
-<div align="center">
-
-<table width="90%">
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### Backend Development & Basics
-
-</div>
-
-<div align="left">
-
-**Programming & Frameworks**
-- Java basics and Spring Boot (simple web applications)
-- Understanding APIs (REST basics)
-- Simple authentication (username/password concepts)
-
-**Databases**
-- PostgreSQL fundamentals
-- Basic database design (tables, relationships)
-- Using JPA/Hibernate for simple data storage
-
-**DevOps & Tools**
-- Introduction to Docker (containers)
-- Basic Git and version control
-- Running applications on Linux (basic commands)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### AI/ML & Data Fundamentals
-
-</div>
-
-<div align="left">
-
-**Model Deployment**
-- Running simple Python models (Flask or FastAPI)
-- Understanding model inputs and outputs
-
-**Machine Learning Basics**
-- Introduction to Python ML libraries (scikit-learn)
-- Simple regression, classification, and data exploration
-- Using pre-trained models (Hugging Face Transformers) for experiments
-
-**Data Handling**
-- Reading and processing data (CSV, Excel)
-- Basic data cleaning and simple feature preparation
-- Storing data in simple databases
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ## Technology Stack
 
 <div align="center">
@@ -170,7 +103,5 @@ I architect and engineer **production-grade backend systems** that seamlessly in
 **"Architecting intelligent, resilient systems that transform data into strategic advantage"**
 
 <br/><br/>
-
-![](https://capsule-render.vercel.app/api?type=waving&color=0:79c0ff,50:58a6ff,100:1f6feb&height=100&section=footer)
 
 </div>
