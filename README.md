@@ -1,106 +1,136 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/MGhiremath0281/portfolio/main/Banner.jpeg" width="100%" />
 
 # Muktananda Hiremath
 
-### Backend Architect | AI/ML Integration 
+```text
+Backend Developer • Distributed Systems • Cloud-Native Infrastructure • AI Integration
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Building+Intelligent+Backend+Systems;Orchestrating+ML+Models+at+Scale;Spring+Boot+%7C+Python+%7C+Cloud+Native;Enterprise+Architecture+%2B+AI+Integration" alt="Typing SVG" />
-
-</div>
-
----
-
-## Professional Summary
-
-<div align="center" style="padding: 20px;">
-
-I architect and engineer **production-grade backend systems** that seamlessly integrate artificial intelligence and machine learning capabilities at scale. My expertise spans enterprise Java development, microservices orchestration, and intelligent model deployment—bridging traditional backend engineering with cutting-edge AI to deliver transformative, data-driven solutions.
-
-**Core Competencies:** Distributed Systems Architecture | ML Model Deployment | API Design | Data Engineering | Cloud Infrastructure
 
 </div>
 
 ---
-## Technology Stack
+
+## What I Build
+
+I specialize in architecting and developing scalable backend platforms using modern Java technologies, distributed systems, and cloud-native infrastructure.
+
+My focus is on building production-grade microservices ecosystems, intelligent backend platforms, high-performance APIs, and event-driven architectures capable of handling real-world scale and complex workloads.
+
+I combine backend engineering principles with AI and machine learning integration to create intelligent, data-driven systems optimized for reliability, scalability, and performance.
+
+---
+
+## Technologies I Work With
 
 <div align="center">
 
-### Backend Development & Infrastructuree
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,kubernetes,maven&perline=8&theme=light" alt="Backend Stack" />
-</p>
-
-### Artificial Intelligence & Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,anaconda&perline=7&theme=light" alt="AI/ML Stack" />
-</p>
-
-### Development Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea&perline=8&theme=light" alt="Development Tools" />
-</p>
-
-</div>
-
----
-
-## GitHub Performance Metrics
-
-<div align="center">
-
-<br/><br/>
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MGhiremath0281&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Statistics" alt="GitHub Statistics" width="100%" />
-</td>
-<td width="50%">
-<img src="https://nirzak-streak-stats.vercel.app/?user=MGhiremath0281&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution Streak" width="100%" />
-</td>
-</tr>
+<table border="0" width="100%">
+  <!-- Row 1: Backend and Data -->
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h4>Backend Engineering</h4>
+      <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" />
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h4>Data & Messaging</h4>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,rabbitmq&theme=dark" />
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-
-<br/><br/>
-
----
-
-## Professional Network
-
-<div align="center">
-
-<p align="center">
-  <a href="https://linkedin.com/in/muktananda-hiremath" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="50" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:hmuktananadg@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="50" alt="Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/MGhiremath0281" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" height="50" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/muktanandgh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light" height="50" alt="Instagram" />
-  </a>
-</p>
-
-<br/>
+<table border="0" width="100%">
+  <!-- Row 2: Cloud and Tools -->
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h4>Cloud & Infrastructure</h4>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux&theme=dark" />
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h4>Dev Ecosystem</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
+---
+
+## GitHub Analytics
+
 <div align="center">
 
+<!-- Top Section: Full Width Details -->
+<table border="0" width="100%">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MGhiremath0281&theme=tokyonight" width="98%" />
+    </td>
+  </tr>
+</table>
 
-**"Architecting intelligent, resilient systems that transform data into strategic advantage"**
+<br/>
 
-<br/><br/>
+<!-- Middle Section: Languages -->
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MGhiremath0281&theme=tokyonight" width="100%" />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MGhiremath0281&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Bottom Section: Stats & Time -->
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MGhiremath0281&theme=tokyonight" width="100%" />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MGhiremath0281&theme=tokyonight&utcOffset=5.5" width="100%" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/muktananda-hiremath" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="55" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:hmuktananadg@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="55" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/MGhiremath0281" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="55" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/muktanandgh" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="55" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building scalable systems that combine reliability, intelligence, and performance.
 
 </div>
